@@ -88,6 +88,39 @@
         <containerConfiguration containerType="EURO_PALLET" name="pdlc_forestryPack:saplingPalletRisutec" sizeX="1.25" sizeY="0.60" sizeZ="0.85" neverStack="true"/>
         <containerConfiguration containerType="BIGBAG_PALLET" name="pdlc_forestryPack:stonePallet"/>
         <containerConfiguration containerType="SHIPPING_CONTAINER" name="pdlc_forestryPack:shippingContainer" sizeX="2.44" sizeY="2.59" sizeZ="?" neverStack="true"/>
+        
+        <!-- Pallet Addon -->
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:fillablePallet" sizeY="0.800"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:liquidTank"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:liquidsTank"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:bakeryBoxPallet" sizeY="0.920"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:boardsStackPallet" sizeY="0.666"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:bonsilagePallet" sizeY="0.450"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:butterBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:cakePallet" sizeY="0.475"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:canolaOilPallet" sizeY="0.450"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:cerealsPallet" sizeY="1.100"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:cheesePallet" sizeY="1.000"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:chocolateBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:clothesBoxPallet" sizeY="1.000"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:eggBoxPallet" sizeY="0.550"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:fabricsPallet" sizeY="0.600"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:flourBoxPallet" sizeY="1.125"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:furnitureStackPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:grapeJuicePallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:grapePallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:honeyBoxPallet" sizeY="0.650"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:lettuceBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:milkPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:oliveOilPallet" sizeY="0.450"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:raisinBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:schaumannPallet" sizeX="1.350" sizeY="0.770" sizeZ="1.050"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:strawberriesBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:sugarBoxPallet" sizeY="1.125"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:sunflowerOilPallet" sizeY="0.450"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:tomatoesBoxPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:treeSaplingPallet"/>
+        <containerConfiguration containerType="EURO_PALLET" name="FS22_zzz_pallet_addon:woolPallet" sizeY="1.250"/>
     </containerConfigurations>
 </universalAutoload>
 
